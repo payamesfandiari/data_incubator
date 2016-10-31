@@ -41,25 +41,36 @@ In the next plot you can see that overall the number of Point of Interest are mu
 
 ##Data
 The data for this project comes from several sources. Here is a list of datasets I used for this project : 
+
 Legally Operating Businesses : 
          https://data.cityofnewyork.us/Business/Legally-Operating-Businesses/w7w3-xahh
+
 CDC Annual Health Data :
          https://www.cdc.gov/brfss/annual_data/2015/files/LLCP2015ASC.zip
+
 Street Assessment Testing :
         https://data.cityofnewyork.us/api/views/umhe-raak
+
 Outdoor Air and Health Info : 
         https://data.cityofnewyork.us/api/views/c3uy-2p5r
+
 NYC neighbourhood names : 
         https://data.cityofnewyork.us/api/assets/EADEB66A-87D5-4E9E-8D68-A1B9049F6EE8?download=true
+
 Water Quality complaints :
        https://data.cityofnewyork.us/api/views/INLINE/rows.csv?accessType=DOWNLOAD
+
 NYC Taxi Data (Not used in this step): 
       http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
+
 Historical New York City Crime Data  :     http://www.nyc.gov/html/nypd/downloads/zip/analysis_and_planning/citywide_historical_crime_data_archive.zip
 
 APIs :
+
       Google Place Web Service API
+
       Yelp Business Search API
+
       OpenData Socrata API
 
 ##Next Step : 
