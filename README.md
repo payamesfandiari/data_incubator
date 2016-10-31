@@ -11,28 +11,29 @@ This motivated me to create a system that can recommend a place. Just like other
 
 ##Description : 
 We start by mining and gathering the data required for the project. We Create a dataset of "Borough"s and "Neighbourhoods". Then for each one of them we create a feature vector based on these parameters : 
-```Air pollution measurement
-Water pollution measurement
-number of restaurants
-number of cafes
-number of bars
-avg rating of restaurants
-avg rating of cafes
-avg rating bars
-number of schools
-number of colleges
-number of parking lots
-number of parking spots on the street
-number of Farmer's market
-number of Wholefoods/trader's joe
-number of other supermarkets and grocery stores 
-number of art centers
-number of parks
-number of collisions resulted in death
-number of other kinds of collisions 
-number of crimes happened in the area
-Also, we append fractions of these measures based on the population.
-Also, we use KNearestNeighbour to find the distances of the center of a Neighbourhood to top 10 best restaurants and bars and cafe based on user input from Yelp
+```
+-Air pollution measurement
+-Water pollution measurement
+-number of restaurants
+-number of cafes
+-number of bars
+-avg rating of restaurants
+-avg rating of cafes
+-avg rating bars
+-number of schools
+-number of colleges
+-number of parking lots
+-number of parking spots on the street
+-number of Farmer's market
+-number of Wholefoods/trader's joe
+-number of other supermarkets and grocery stores 
+-number of art centers
+-number of parks
+-number of collisions resulted in death
+-number of other kinds of collisions 
+-number of crimes happened in the area
+-Also, we append fractions of these measures based on the population.
+-Also, we use KNearestNeighbour to find the distances of the center of a Neighbourhood to top 10 best restaurants and bars and cafe based on user input from Yelp
 ```
 The first step in this project is extracting some information from these data. In the first plot you can see that based on these features Brooklyn has better score which was surprising. Specifically it seems that the number of businesses and the Avg rating of them are much higher than Manhattan. 
 Also I decided not to put any weight on the features at this time. In the next step these weighting will come from the User. 
