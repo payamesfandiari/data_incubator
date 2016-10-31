@@ -74,10 +74,13 @@ APIs :
       OpenData Socrata API
 
 ##Next Step : 
-The next step is consists of several steps : 
+The next step is consists of several steps :
+ 
 first, include a ranking system so people could rank their neighbourhood easily. 
+
 second, Create a Deep Belief Network to implement a Recommender System. Altough recommender systems like Restricted Boltzman Machine of Netflix have been at work but I think Deep Learning methods are game changers. 
 (Good starting point : https://arxiv.org/pdf/1409.2944.pdf )
+
 third, extend the project to other cities. 
 
 
