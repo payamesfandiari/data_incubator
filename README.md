@@ -1,4 +1,4 @@
-# python-getting-started
+# Data Incubator Project
 
 A barebones Python app, which can easily be deployed to Heroku.
 
