@@ -1,0 +1,170 @@
+{
+  "name": "NYC Demistify",
+  "children": [
+    {
+      "name": "Bronx",
+      "children": [
+        {
+          "name": "rating",
+          "size": 145.8028358353
+        },
+        {
+          "name": "subways",
+          "size": 110
+        },
+        {
+          "name": "Number of Water Complains",
+          "size": -78.77478844971102
+        },
+        {
+          "name": "Number of Parkings",
+          "size": 130
+        },
+        {
+          "name": "Number of Point of interest",
+          "size": 2542
+        },
+        {
+          "name": "Number of Point of interest yelp",
+          "size": 2214
+        },
+        {
+          "name": "Number of Crimes",
+          "size": -71.42798056977713
+        }
+      ]
+    },
+    {
+      "name": "Brooklyn",
+      "children": [
+        {
+          "name": "rating",
+          "size": 244.09683309550002
+        },
+        {
+          "name": "subways",
+          "size": 240
+        },
+        {
+          "name": "Number of Water Complains",
+          "size": -97.48896936187039
+        },
+        {
+          "name": "Number of Parkings",
+          "size": 133
+        },
+        {
+          "name": "Number of Point of interest",
+          "size": 3741
+        },
+        {
+          "name": "Number of Point of interest yelp",
+          "size": 3274
+        },
+        {
+          "name": "Number of Crimes",
+          "size": -81.42763935541177
+        }
+      ]
+    },
+    {
+      "name": "Manhattan",
+      "children": [
+        {
+          "name": "rating",
+          "size": 152.4393238057
+        },
+        {
+          "name": "subways",
+          "size": 327
+        },
+        {
+          "name": "Number of Water Complains",
+          "size": -37.446728909399674
+        },
+        {
+          "name": "Number of Parkings",
+          "size": 920
+        },
+        {
+          "name": "Number of Point of interest",
+          "size": 2014
+        },
+        {
+          "name": "Number of Point of interest yelp",
+          "size": 1950
+        },
+        {
+          "name": "Number of Crimes",
+          "size": -28.603656035224645
+        }
+      ]
+    },
+    {
+      "name": "Queens",
+      "children": [
+        {
+          "name": "rating",
+          "size": 236.04271955879997
+        },
+        {
+          "name": "subways",
+          "size": 101
+        },
+        {
+          "name": "Number of Water Complains",
+          "size": -102.23272714492354
+        },
+        {
+          "name": "Number of Parkings",
+          "size": 129
+        },
+        {
+          "name": "Number of Point of interest",
+          "size": 3653
+        },
+        {
+          "name": "Number of Point of interest yelp",
+          "size": 3272
+        },
+        {
+          "name": "Number of Crimes",
+          "size": -245.4837974227811
+        }
+      ]
+    },
+    {
+      "name": "Staten Island",
+      "children": [
+        {
+          "name": "rating",
+          "size": 178.35756305429996
+        },
+        {
+          "name": "subways",
+          "size": 0
+        },
+        {
+          "name": "Number of Water Complains",
+          "size": -179.67281226685253
+        },
+        {
+          "name": "Number of Parkings",
+          "size": 82
+        },
+        {
+          "name": "Number of Point of interest",
+          "size": 2419
+        },
+        {
+          "name": "Number of Point of interest yelp",
+          "size": 1722
+        },
+        {
+          "name": "Number of Crimes",
+          "size": -617.46833790905
+        }
+      ]
+    }
+  ]
+}

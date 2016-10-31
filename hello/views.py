@@ -12,6 +12,8 @@ def index(request):
     # return HttpResponse('<pre>' + r.text + '</pre>')
     return render(request, 'chart1.html')
 
+def chart2(request):
+    return render(request,'chart2.html')
 
 def db(request):
 
